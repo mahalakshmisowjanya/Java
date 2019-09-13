@@ -1,10 +1,11 @@
-public class AddTwoNumbers {
-
-   public static void main(String[] args) {
-        
-      int num1 = 5, num2 = 15, sum;
-      sum = num1 + num2;
-
-      System.out.println("Sum of these numbers: "+sum);
-   }
-}
+class HelloWorld 
+{ 
+    // Your program begins with a call to main(). 
+    // Prints "Hello, World" to the terminal window. 
+    public static void main(String args[]) 
+    { 
+        System.out.println("Hello, World");
+        System.out.println("welcome to HCL");
+       
+    } 
+} 
